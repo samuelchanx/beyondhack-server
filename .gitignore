@@ -64,3 +64,5 @@ node_modules/
 
 # dotenv environment variables file
 .env
+functions/src/credentials.json
+functions/src/constants/firebase_credentials.json
